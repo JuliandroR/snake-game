@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: #252729;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+canvas {
+  border: 1px solid aliceblue;
+}
+p {
+  color: aliceblue;
+}
+
+h2{
+    font-family: 'Supermercado One', cursive;
+    font-size: 5rem;
+    color: antiquewhite;
+}
